@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4afa5ec5-2390-4bde-a836-cd002d8792c7")
+	(paper "A4")
+	(title_block
+		(title "Inputs")
+		(date "2026-04-02")
+		(rev "0")
+	)
+	(lib_symbols)
+)

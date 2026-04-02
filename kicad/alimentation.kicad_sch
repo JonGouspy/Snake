@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "02d8ce24-c044-4d45-be3c-34da6894c68d")
+	(paper "A4")
+	(title_block
+		(title "Alimentation")
+		(date "2026-04-02")
+		(rev "0")
+	)
+	(lib_symbols)
+)

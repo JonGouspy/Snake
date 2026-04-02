@@ -229,7 +229,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -424,6 +424,22 @@
     [
       "9cc8a00f-d0ea-45df-b271-713cb4eff325",
       "Root"
+    ],
+    [
+      "5dc3d0ff-5a77-4430-a2c2-0f05f8424381",
+      "charlieplexing"
+    ],
+    [
+      "ff61c9f8-eeb4-4d3d-9c15-06bd24e053c9",
+      "inputs"
+    ],
+    [
+      "4e2bd1e3-aa58-4676-ab6c-c91f38ed56e9",
+      "controller"
+    ],
+    [
+      "49e87a32-ff97-4980-80ea-f4307d1bbf55",
+      "alimentation"
     ]
   ],
   "text_variables": {}
