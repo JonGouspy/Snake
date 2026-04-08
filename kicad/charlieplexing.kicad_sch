@@ -11577,7 +11577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d38dab3-1aac-487c-9176-498befe73ef1")
-		(property "Reference" "R5"
+		(property "Reference" "R?"
 			(at 195.58 115.57 0)
 			(effects
 				(font
@@ -11638,6 +11638,12 @@
 			(uuid "52e6de71-be4d-4086-83c3-89152bde8577")
 		)
 		(instances
+			(project "snake"
+				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325/5dc3d0ff-5a77-4430-a2c2-0f05f8424381"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "charlieplexing"
 				(path "/c105dd28-7568-43d5-96ed-651073f639fa"
 					(reference "R5")
@@ -11656,7 +11662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d92d313-d718-48da-85cc-6a5ac2587931")
-		(property "Reference" "R3"
+		(property "Reference" "R?"
 			(at 195.58 80.01 0)
 			(effects
 				(font
@@ -11717,6 +11723,12 @@
 			(uuid "2d3054f9-06e7-4d11-bfd1-6e25dec8573d")
 		)
 		(instances
+			(project "snake"
+				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325/5dc3d0ff-5a77-4430-a2c2-0f05f8424381"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "charlieplexing"
 				(path "/c105dd28-7568-43d5-96ed-651073f639fa"
 					(reference "R3")
@@ -11812,7 +11824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10f7f11a-a065-4aea-bfb3-94d268a59475")
-		(property "Reference" "R2"
+		(property "Reference" "R?"
 			(at 195.58 62.23 0)
 			(effects
 				(font
@@ -11873,6 +11885,12 @@
 			(uuid "8c9fb74b-78b3-430f-b32d-e1c03b665e7d")
 		)
 		(instances
+			(project "snake"
+				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325/5dc3d0ff-5a77-4430-a2c2-0f05f8424381"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "charlieplexing"
 				(path "/c105dd28-7568-43d5-96ed-651073f639fa"
 					(reference "R2")
@@ -13061,7 +13079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7647d920-b9ba-4e83-9be5-ceffd6ec7791")
-		(property "Reference" "R4"
+		(property "Reference" "R?"
 			(at 195.58 97.79 0)
 			(effects
 				(font
@@ -13122,6 +13140,12 @@
 			(uuid "aad02b66-b404-4f91-b3c7-fb4fb594a3e7")
 		)
 		(instances
+			(project "snake"
+				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325/5dc3d0ff-5a77-4430-a2c2-0f05f8424381"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "charlieplexing"
 				(path "/c105dd28-7568-43d5-96ed-651073f639fa"
 					(reference "R4")
@@ -13998,7 +14022,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7d27dad-764e-4ac4-bb78-666b9a481d9e")
-		(property "Reference" "R7"
+		(property "Reference" "R?"
 			(at 195.58 151.13 0)
 			(effects
 				(font
@@ -14059,6 +14083,12 @@
 			(uuid "5a948136-28f7-491e-9a90-093130cc09a6")
 		)
 		(instances
+			(project "snake"
+				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325/5dc3d0ff-5a77-4430-a2c2-0f05f8424381"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "charlieplexing"
 				(path "/c105dd28-7568-43d5-96ed-651073f639fa"
 					(reference "R7")
@@ -14077,7 +14107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b30ce55c-da6e-41f8-a24b-5795e29f86c9")
-		(property "Reference" "R1"
+		(property "Reference" "R?"
 			(at 195.58 44.45 0)
 			(effects
 				(font
@@ -14138,6 +14168,12 @@
 			(uuid "11a4f4d3-9713-4ad3-8d9e-ce0abd257823")
 		)
 		(instances
+			(project "snake"
+				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325/5dc3d0ff-5a77-4430-a2c2-0f05f8424381"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/c105dd28-7568-43d5-96ed-651073f639fa"
 					(reference "R1")
@@ -14702,7 +14738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6ce07ee-c1bf-4eb7-8df7-c1d086bb33bb")
-		(property "Reference" "R6"
+		(property "Reference" "R?"
 			(at 195.58 133.35 0)
 			(effects
 				(font
@@ -14763,6 +14799,12 @@
 			(uuid "9829510e-5175-496d-83fd-14ad99c82437")
 		)
 		(instances
+			(project "snake"
+				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325/5dc3d0ff-5a77-4430-a2c2-0f05f8424381"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 			(project "charlieplexing"
 				(path "/c105dd28-7568-43d5-96ed-651073f639fa"
 					(reference "R6")

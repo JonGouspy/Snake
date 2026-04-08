@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "LED_0805_R")(type "KiCad")(uri "${KIPRJMOD}/components/WL-SMCW_0805/WL-SMCW_0805.kicad_sym")(options "")(descr ""))
   (lib (name "R220_0603")(type "KiCad")(uri "${KIPRJMOD}/components/RC0603FR_07220RL_0603/RC0603FR-07220RL.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32G031K8T6")(type "KiCad")(uri "${KIPRJMOD}/components/STM32G031K8T6/STM32G031K8T6.kicad_sym")(options "")(descr ""))
 )
