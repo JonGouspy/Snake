@@ -11016,166 +11016,82 @@
 		)
 		(uuid "fea50e3b-7c0c-45bb-b920-c8ccb7c624cd")
 	)
-	(global_label "E4"
-		(shape input)
-		(at 207.01 121.92 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0b860c42-36aa-4412-b397-d6cf6d9c7e8f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.3537 121.92 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "E0"
-		(shape input)
-		(at 207.01 50.8 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1ac2d540-69d6-4c3b-bc0f-8d0fa8d4f56b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.3537 50.8 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "E1"
-		(shape input)
-		(at 207.01 68.58 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2e106769-5c2b-4839-8ca9-70483cd3fae4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.3537 68.58 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "E5"
-		(shape input)
-		(at 207.01 139.7 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "49b14111-f053-4861-8cec-1bf9ab1a6561")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.3537 139.7 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "E2"
+	(hierarchical_label "E3"
 		(shape input)
 		(at 207.01 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "570af1e0-830a-4761-8c4f-d6bec8cc6469")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.3537 86.36 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
+		(uuid "1fccafd0-93a9-448b-82d5-f913ab23439b")
 	)
-	(global_label "E3"
-		(shape input)
-		(at 207.01 104.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "59906c02-f69c-488c-a52c-aa0fa788b997")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.3537 104.14 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "E6"
+	(hierarchical_label "E7"
 		(shape input)
 		(at 207.01 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e38ac2ea-69d6-4b7e-b2f9-327c919b5606")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.3537 157.48 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
+		(uuid "4eb408c1-c42b-4d8b-b097-84c0106723e9")
+	)
+	(hierarchical_label "E6"
+		(shape input)
+		(at 207.01 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify left)
 		)
+		(uuid "7f81a49f-c447-408b-b576-fd1b98cc9b8d")
+	)
+	(hierarchical_label "E2"
+		(shape input)
+		(at 207.01 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a0e7b212-340c-4bce-8d4f-c8451c34ceb8")
+	)
+	(hierarchical_label "E4"
+		(shape input)
+		(at 207.01 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab089514-0e40-4f58-b18f-e9d7caf482a6")
+	)
+	(hierarchical_label "E1"
+		(shape input)
+		(at 207.01 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b863fea5-674b-4ae8-9aa3-bca86f3831fa")
+	)
+	(hierarchical_label "E5"
+		(shape input)
+		(at 207.01 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fe6fd5fd-670b-44d5-a736-c7124490efae")
 	)
 	(symbol
 		(lib_name "WL-SMCW_0805_24")

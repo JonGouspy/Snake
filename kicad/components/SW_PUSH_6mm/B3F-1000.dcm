@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B3F-1000
+D OMRON ELECTRONIC COMPONENTS - B3F-1000 - SWITCH, SPNO, 0.05A, 24V, THT, 0.98N
+K
+F https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+$ENDCMP
+#
+#End Doc Library
