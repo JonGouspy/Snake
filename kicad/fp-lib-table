@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "B3F-1000")(type "KiCad")(uri "${KIPRJMOD}/footprints/B3F-1000.pretty")(options "")(descr ""))
+)
