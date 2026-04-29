@@ -18252,7 +18252,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "973f5962-4f6c-48fe-9c6e-0d7bae3beee3")
-		(property "Reference" "S4"
+		(property "Reference" "S1"
 			(at 197.866 48.768 90)
 			(effects
 				(font
@@ -18310,7 +18310,7 @@
 		(instances
 			(project "snake"
 				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325"
-					(reference "S4")
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -18803,7 +18803,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ad574b59-bdbb-4c9c-a72d-e4816fcb1d06")
-		(property "Reference" "S3"
+		(property "Reference" "S2"
 			(at 218.186 48.768 90)
 			(effects
 				(font
@@ -18861,7 +18861,7 @@
 		(instances
 			(project "snake"
 				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325"
-					(reference "S3")
+					(reference "S2")
 					(unit 1)
 				)
 			)
@@ -19987,7 +19987,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da77755b-d882-416e-917a-24e0bd3f60bb")
-		(property "Reference" "S1"
+		(property "Reference" "S4"
 			(at 258.826 48.768 90)
 			(effects
 				(font
@@ -20045,7 +20045,7 @@
 		(instances
 			(project "snake"
 				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325"
-					(reference "S1")
+					(reference "S4")
 					(unit 1)
 				)
 			)
@@ -21353,7 +21353,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f90b7440-63db-473d-828b-4a31aa01c700")
-		(property "Reference" "S2"
+		(property "Reference" "S3"
 			(at 238.506 48.768 90)
 			(effects
 				(font
@@ -21411,7 +21411,7 @@
 		(instances
 			(project "snake"
 				(path "/9cc8a00f-d0ea-45df-b271-713cb4eff325"
-					(reference "S2")
+					(reference "S3")
 					(unit 1)
 				)
 			)
