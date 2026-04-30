@@ -14221,7 +14221,7 @@
 		)
 		(uuid "275a048f-b51f-498d-b619-c3ecc3093393")
 	)
-	(label "Up"
+	(label "Left"
 		(at 298.45 90.17 0)
 		(effects
 			(font
@@ -14251,7 +14251,7 @@
 		)
 		(uuid "38d8bf1f-f8d2-4448-9246-6e8b72f1cf17")
 	)
-	(label "Left"
+	(label "Right"
 		(at 298.45 113.03 0)
 		(effects
 			(font
@@ -14301,7 +14301,7 @@
 		)
 		(uuid "562ded7f-f65e-42ba-8c2b-9ae41a951b3f")
 	)
-	(label "Down"
+	(label "Up"
 		(at 298.45 92.71 0)
 		(effects
 			(font
@@ -14421,7 +14421,7 @@
 		)
 		(uuid "cb074d02-1bab-4ac9-b0f2-275ed2d51778")
 	)
-	(label "Right"
+	(label "Down"
 		(at 298.45 115.57 0)
 		(effects
 			(font
@@ -19775,6 +19775,7 @@
 	(symbol
 		(lib_id "Connector:TestPoint_Small")
 		(at 92.71 49.53 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19782,7 +19783,7 @@
 		(dnp no)
 		(uuid "cd6e369a-6ec8-44d4-8922-1a07eb197e2c")
 		(property "Reference" "TC5"
-			(at 90.932 47.498 0)
+			(at 94.488 47.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19791,7 +19792,7 @@
 			)
 		)
 		(property "Value" "TestPoint_Small"
-			(at 93.98 50.7999 0)
+			(at 91.44 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19801,7 +19802,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
-			(at 97.79 49.53 0)
+			(at 87.63 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19810,7 +19811,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 49.53 0)
+			(at 87.63 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
