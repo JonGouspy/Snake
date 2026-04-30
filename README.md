@@ -6,7 +6,7 @@
 * **Version** : v1.0
 * **Date** : 30/04/2026
 * **Groupe** : 1
-* **Membre du groupe** : jon.gouspy, alexandre.lacroix, valentin.delhommeau
+* **Membres du groupe** : jon.gouspy, alexandre.lacroix, valentin.delhommeau
 
 ---
 
