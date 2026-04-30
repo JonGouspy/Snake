@@ -1,9 +1,4 @@
 (sym_lib_table
   (version 7)
   (lib (name "LED_0805_R")(type "KiCad")(uri "${KIPRJMOD}/footprints/components.pretty/WL-SMCW_0805.kicad_sym")(options "")(descr ""))
-  (lib (name "R220_0603")(type "KiCad")(uri "${KIPRJMOD}/footprints/components.pretty/RC0603FR-07220RL.kicad_sym")(options "")(descr ""))
-  (lib (name "STM32F103C8T6")(type "KiCad")(uri "${KIPRJMOD}/footprints/components.pretty/STM32F103C8T6.kicad_sym")(options "")(descr ""))
-  (lib (name "LD1117S33TR")(type "KiCad")(uri "${KIPRJMOD}/footprints/components.pretty/SOT-223_STM.kicad_sym")(options "")(descr ""))
-  (lib (name "SW_PUSH_6mm")(type "KiCad")(uri "${KIPRJMOD}/footprints/components.pretty/B3F-1000.kicad_sym")(options "")(descr ""))
-  (lib (name "RES_CRG0603J10K_TEC")(type "KiCad")(uri "${KIPRJMOD}/footprints/components.pretty/RES_CRG0603J10K_TEC.kicad_sym")(options "")(descr ""))
 )
